@@ -1,0 +1,2 @@
+# friends
+Life is comedy 🤣 
