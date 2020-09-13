@@ -1,19 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/DiMpLe-ui/friends/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+“A friend is someone who understands your past, believes in your future, and accepts you just the way you are.”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# True friendship isn’t about being inseparable. It’s being separated and nothing changes.
+## The most beautiful discovery true friends make is that they can grow separately without growing apart.
+###One friend can change your whole life
 
 - Bulleted
 - List
